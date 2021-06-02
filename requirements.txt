@@ -6,7 +6,7 @@ bs4==0.0.1
 pandas==0.23.0
 requests==2.22.0
 line-bot-sdk
-urllib3==1.25.7
+urllib3==1.26.5
 matplotlib
 numpy
 pyimgur
